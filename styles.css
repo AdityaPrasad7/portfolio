@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    text-align: center; 
+    font-size: 100%;
+}
+.top-container{
+    background-color:#c2e8f6;
+    position: relative;
+    padding-top: 150px;
+}
+h1{
+    
+    color: #66bfbf;
+    font-size: 3.5rem;
+   
+  margin-bottom: auto;
+   text-align: center;
+   font-family: 'Sacramento', cursive;
+}
+.designation{
+    color: #307777;
+    font-size: 20px;
+    font-weight: normal;
+}
+.cld1{
+    position: absolute;
+    top: 50px;
+    right: 250px;
+ }
+.cld2{
+    position:absolute;
+    bottom: 430px;
+    left: 250px;
+}
+.birds{
+    position: absolute;
+    bottom: 385px;
+    right: 400px;
+    height:65px;
+}
+.middle-container{
+    
+}
+h2{
+    color:  #11999E;
+}
+h3{
+    color:  #11999E;
+}
